@@ -1,5 +1,7 @@
 # Web3Bella-
 Exploring blockchain, smart contracts, and all things Web3🚀🚀
+
+
  👋🏽 Hey there, I'm Web3Bella
 
 I'm an aspiring **Blockchain Developer** currently focused on learning **Solidity**, **smart contracts**, and building beautiful dApps on the Ethereum blockchain.  
