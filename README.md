@@ -23,8 +23,8 @@ I'm an aspiring **Blockchain Developer** currently focused on learning **Solidit
 - `Hardhat` • `Git` • `VS Code`
 
  📫 Connect with Me
-- Twitter: [@TheWeb3Bella](https://twitter.com/TheWeb3Bella)
-- Telegram: t.me/TheWeb3Bellaa 
+- Twitter: [@TheWeb3Bellaa](https://twitter.com/TheWeb3Bellaa)
+- Telegram: t.me/TheWeb3Bella 
 - Email: annabellepeter8@gmail.com 
 
 ---
