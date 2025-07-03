@@ -24,7 +24,7 @@ I'm an aspiring **Blockchain Developer** currently focused on learning **Solidit
 
  📫 Connect with Me
 - Twitter: [@TheWeb3Bella](https://twitter.com/TheWeb3Bella)
-- Telegram: t.me/TheWeb3Bella
+- Telegram: t.me/TheWeb3Bellaa 
 - Email: annabellepeter8@gmail.com 
 
 ---
